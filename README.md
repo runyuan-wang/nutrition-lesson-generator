@@ -4,6 +4,12 @@ An open-source toolkit for evidence-based nutrition education.
 
 Turn a nutrition topic into a structured, evidence-informed lesson package with a real PowerPoint export — no paid API required. The default `mock` mode is fully offline; an optional `pubmed` mode retrieves real metadata from NCBI PubMed and links every claim to a PubMed identifier.
 
+## Real output preview
+
+![Real Nutrition Lesson Generator output showing all 12 generated artifacts, including nutrition_lesson.pptx](docs/images/real-output-preview.png)
+
+*Actual v0.2.0 PubMed-mode run: the generated package contains 12 artifacts, including the editable `nutrition_lesson.pptx`, lesson specification, outline, speaker notes, references, evidence traceability, and quality report. The image preserves the real file names and byte sizes from the validated run.*
+
 ## Problem
 
 Nutrition professionals and health educators repeatedly build slide decks, speaker notes, and reference lists from scratch. Generative AI can accelerate this, but nutrition content carries special risks: causal overstatement, fabricated citations, treatment promises, and unsupported numerical claims. This project provides a **structured, auditable pipeline** that keeps the human educator in control and makes evidence quality explicit.
