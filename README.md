@@ -200,6 +200,17 @@ examples/
 - Optional web UI or API server.
 - Video/voice/image generation remain out of scope.
 
+## Author / 作者
+
+**王润圆 (Wang Runyuan)**
+
+昆明医科大学营养与食品卫生学硕士，中国注册营养师，云南天文爱好者协会秘书处干事。好奇心强，长期参与科普活动；正在学习并探索把 AI 与营养学科普和实际营养工作相结合，希望帮助更多人。
+
+Wang Runyuan holds a master's degree in Nutrition and Food Hygiene from Kunming Medical University, is a Chinese Registered Dietitian, and serves on the secretariat of the Yunnan Astronomy Enthusiasts Association. Curious and active in science communication for many years, she is exploring how AI can support nutrition education and practical nutrition work to help more people.
+
+- GitHub: [@9s5bz2jvd2-lang](https://github.com/9s5bz2jvd2-lang)
+- Contact: [jykmsg@163.com](mailto:jykmsg@163.com)
+
 ## License
 
 Apache-2.0. See [LICENSE](LICENSE).

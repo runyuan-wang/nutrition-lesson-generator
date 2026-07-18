@@ -10,7 +10,7 @@ readme = "README.md"
 license = {text = "Apache-2.0"}
 requires-python = ">=3.11"
 authors = [
-    {name = "Nutrition Lesson Generator Contributors"}
+    {name = "Wang Runyuan", email = "jykmsg@163.com"}
 ]
 keywords = ["nutrition", "education", "lesson", "pptx", "evidence-based"]
 classifiers = [
